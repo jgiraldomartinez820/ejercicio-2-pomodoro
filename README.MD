@@ -17,8 +17,8 @@ Crear una aplicación web (Single Page Application) que funcione como un tempori
 3.  **Controles:** Botón de **Start**, **Pause** y **Skip current timer**.
 4.  **Feedback Visual:** El diseño debe ser limpio (basado en la referencia). El color debe cambiar según el modo 
 - pomodoro (#ba4949)
-- short breack (#38858a)
-- long breack (#397097)
+- short break (#38858a)
+- long break (#397097)
 5.  **Audio (Bonus):** Un sonido al finalizar el tiempo (opcional, si logras que la IA lo implemente).
 
 ---
